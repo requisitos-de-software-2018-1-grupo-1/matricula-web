@@ -12,6 +12,8 @@ Nesse sentido, a disciplina é ministrada com a divisão da turma em grupos a fi
 
 ## Equipe de Requisitos
 
+A equipe é formada por seis alunos do curso de engenharia de software que cursam a disciplina de Requisitos, todos com perfis diferenciados e em diferentes posições do fluxograma.
+
 | Membro | E-mail | GitHub |
 | :-----: | :----: | :----: |
 |Adrianne Alves da Silva | driah_as@hotmail.com | [drianne](https://github.com/drianne) |
