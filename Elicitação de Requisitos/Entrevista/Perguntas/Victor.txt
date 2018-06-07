@@ -1,0 +1,21 @@
+Entrevista com o coordenador
+
+Propósito: Entender a participação do(a) coordenador(a) no MW, especialmente no processo de oferta de disciplinas.
+
+Quais são as permissões/features que só você, como coordenador, possui?
+Qual é a sua participação na oferta de disciplinas? Como esse processo acontece?
+Quais são as regras de negócio para a oferta de disciplinas? E para a oferta individual (pré-matrícula)?
+Quais são os critérios/informações importantes para que uma disciplina seja ofertada? E como você recebe as informações de quantidade de professores, salas disponíveis, etc?
+É você mesmo quem faz o “lançamento” da oferta de disciplinas? Se sim, você utiliza o MW pra isso, e como? Se não, qual sistema e como ele se integra ao MW (seu escopo)?
+
+
+
+Entrevista com Funcionário SAA
+
+Propósito: Entender a participação do(a) funcionário(a) do SAA no MW, especialmente no processo de matrícula.
+
+Quais são as permissões/features que só você, como funcionário(a) do SAA, possui?
+Qual sua participação no processo de matrículas? Como esse processo acontece?
+Você utiliza o MW para realizar as matrículas? Se sim, que funcionalidade(s) você utiliza? Se não, que 4. sistema utiliza e como ele é integrado ao MW (seu escopo)?
+Que funcionalidade você mais utiliza? E como?
+Que processos hoje realizados “manualmente” por você, você gostaria que fosse realizado de forma automática e/ou pelos próprios alunos pelo MW?

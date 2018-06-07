@@ -1,0 +1,20 @@
+Entrevista à alunos que frequentam o R.U
+	•	Você me permite gravar esta entrevista em áudio?
+	•	Todo dia tem fila para a recarga, já pensou se não fosse preciso pegá-la?
+	•	Você costuma recarregar a carteirinha aqui todos os dias ou coloca créditos para a semana ou mês?
+	•	Pelo menos agora você tem como ver seu saldo no MW antes de pegar essa fila, né? Você costuma usar esse recurso?
+	•	Já que há essa opção, você acha que seria bom poder colocar recarga também por lá?
+	•	Nas você tem costume de comprar coisas pela internet?
+	•	O que mais você acha que o MW poderia fazer por você?
+
+Entrevista com os desenvolvedores do Matrícula Web
+
+	•	Quando o matrícula web foi concebido?
+	•	Quais eram as principais demandas para a criação/concepção do matrícula web?
+	•	A partir de quanto tempo o aluno é excluído do banco de dados do sistema? (alunos não regulares)
+	•	Quais são os sistemas com os quais o matrícula web é integrado? Como essa integração funciona?
+	•	Qual é o papel da secretaria no sistema?
+	•	Quais são os critérios para o trancamento geral?
+	•	Quais são os critérios para o trancamento de disciplinas?
+	•	Como é disponibilizada a relação de matérias e professores que compõe a oferta de disciplinas?
+	•	Qual é o papel do coordenador no matrícula web (ex: limitação de créditos)?
