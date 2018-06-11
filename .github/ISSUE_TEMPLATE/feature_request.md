@@ -12,10 +12,10 @@ Descreva a nova feature.
 
 Diga quais os critérios o sistema deve possuir para que seja enviado o Pull Request.
 
-
-
 ## Checklist
 
 - [ ] A issue possui Labels.
 - [ ] A issue possui prints de tela quando necessário.
 - [ ] A issue possui nome significativo.
+- [ ] A issue possui descrição clara da nova funcionalidade.
+- [ ] A issue se relaciona com as histórias de usuário.
