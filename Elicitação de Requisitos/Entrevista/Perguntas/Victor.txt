@@ -1,5 +1,7 @@
 Entrevista com o coordenador
 
+* Essa entrevista foi adaptada no momento da aplicação devido às respostas do coordenador, a versão utilizada de fato encontra-se na wiki.
+
 Propósito: Entender a participação do(a) coordenador(a) no MW, especialmente no processo de oferta de disciplinas.
 
 Quais são as permissões/features que só você, como coordenador, possui?
@@ -7,8 +9,6 @@ Qual é a sua participação na oferta de disciplinas? Como esse processo aconte
 Quais são as regras de negócio para a oferta de disciplinas? E para a oferta individual (pré-matrícula)?
 Quais são os critérios/informações importantes para que uma disciplina seja ofertada? E como você recebe as informações de quantidade de professores, salas disponíveis, etc?
 É você mesmo quem faz o “lançamento” da oferta de disciplinas? Se sim, você utiliza o MW pra isso, e como? Se não, qual sistema e como ele se integra ao MW (seu escopo)?
-
-
 
 Entrevista com Funcionário SAA
 
