@@ -1,0 +1,16 @@
+iStar
+
+- [ ] Os atores estão bem definidos.
+- [ ] Hardgoal estão bem definidos.
+- [ ] Softgoal estão bem definidos.
+- [ ] As tasks estão bem definidas.
+- [ ] Associação entre atores estão bem definidas.
+- [ ] Links de dependência estão bem definidos.
+- [ ] Tasks devem estar ligadas à alguma hardgoal ou softgoal, não podendo estar ‘soltas’ no diagrama.
+- [ ] Todas as dependência de um ator devem estar descritas e
+detalhadas no SR do mesmo.
+- [ ] Geralmente, pode existir um recurso logo após uma hardgoal
+que exija ação direta de um dos atores envolvidos.
+- [ ] Todas as labels devem ter textos claros e concisos.
+- [ ] Utiliza o conceito de herança (Ex.: De aluno de graduação para aluno de pós-graduação).
+- [ ] O maior número possível de impactos de tarefas em softgoals deve estar presente no diagrama.
