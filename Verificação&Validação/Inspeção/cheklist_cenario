@@ -1,0 +1,51 @@
+Cenário
+
+- [ ] Todos os cenários possuem título.
+- [ ] Todos os cenários possuem objetivo.
+- [ ] Todos os usuários estão devidamente definidos.
+- [ ] É possível distinguir os usuários do sistema (Aluno graduação e pós-graduação).
+- [ ] Todos os atores estão devidamente definidos.
+
+- [ ] Todos os cenários foram adicionados.
+  - [ ] Mudar a senha.
+  - [ ] Reajuste com o Coordenador.
+  - [ ] Filtrar Disciplina por horário disponível. [Correção](https://github.com/Requisitos-Grupo1/MatriculaWeb/wiki/Cen%C3%A1rio/_compare/5db19c70f044ddefb30d9df3dd5e730cb0ff836d)
+  - [ ] Solicitação de mudança de curso.
+  - [ ] Visualizar menções.
+  - [ ] Visualizar todas as disciplinas optativas do curso. [Correção](https://github.com/Requisitos-Grupo1/MatriculaWeb/wiki/Cen%C3%A1rio/_compare/1823415d2c97a378559496335c41f54be0867ea5)
+  - [ ] Visualizar todas as disciplinas obrigatórias do curso. [Correção](https://github.com/Requisitos-Grupo1/MatriculaWeb/wiki/Cen%C3%A1rio/_compare/1823415d2c97a378559496335c41f54be0867ea5)
+  - [ ] Visualizar Fluxo. [Correção](https://github.com/Requisitos-Grupo1/MatriculaWeb/wiki/Cen%C3%A1rio/_compare/1823415d2c97a378559496335c41f54be0867ea5)
+  - [ ] Verificar Alunos não atendidos por falta de vagas.
+  - [ ] Visualizar posição no fluxo.
+  - [ ] Visualizar turno da disciplina.
+
+- [ ] Todos os cenários possuem nomes significativos
+  - [ ] Cenário 001 -> Cursar Disciplina (Sugestão: Alterar para matricular em disciplina).
+  - [ ] Cenário 004 -> Almoçar no Restaurante Universitário (Sugestão: Saldo RU).
+  - [ ] Cenário 027 -> Visualizar Dados (Sugestão: Alterar para visualizar dados pessoais).
+
+- [ ] Todas as tags para os léxicos estão presentes no cenário.
+  - [ ] graduação. [Correção](https://github.com/Requisitos-Grupo1/MatriculaWeb/wiki/Cen%C3%A1rio/_compare/a870100cf606ba8185affc79b05c1887e4c3805a)
+  - [ ] coordenador. [Correção](https://github.com/Requisitos-Grupo1/MatriculaWeb/wiki/Cen%C3%A1rio/_compare/a870100cf606ba8185affc79b05c1887e4c3805a)
+  - [ ] coordenação. [Correção](https://github.com/Requisitos-Grupo1/MatriculaWeb/wiki/Cen%C3%A1rio/_compare/a870100cf606ba8185affc79b05c1887e4c3805a)
+  - [ ] créditos exigidos. [Correção](https://github.com/Requisitos-Grupo1/MatriculaWeb/wiki/Cen%C3%A1rio/_compare/a870100cf606ba8185affc79b05c1887e4c3805a)
+  - [ ] currículo. [Correção](https://github.com/Requisitos-Grupo1/MatriculaWeb/wiki/Cen%C3%A1rio/_compare/a870100cf606ba8185affc79b05c1887e4c3805a)
+  - [ ] disciplinas obrigatórias. [Correção](https://github.com/Requisitos-Grupo1/MatriculaWeb/wiki/Cen%C3%A1rio/_compare/a870100cf606ba8185affc79b05c1887e4c3805a)
+  - [ ] falta de vaga. [Correção](https://github.com/Requisitos-Grupo1/MatriculaWeb/wiki/Cen%C3%A1rio/_compare/a870100cf606ba8185affc79b05c1887e4c3805a)
+  - [ ] fluxo. [Correção](https://github.com/Requisitos-Grupo1/MatriculaWeb/wiki/Cen%C3%A1rio/_compare/a870100cf606ba8185affc79b05c1887e4c3805a)
+  - [ ] histórico escolar. [Correção](https://github.com/Requisitos-Grupo1/MatriculaWeb/wiki/Cen%C3%A1rio/_compare/a870100cf606ba8185affc79b05c1887e4c3805a)
+  - [] IRA/Índice de rendimento acadêmico. [Correção](https://github.com/Requisitos-Grupo1/MatriculaWeb/wiki/Cen%C3%A1rio/_compare/a870100cf606ba8185affc79b05c1887e4c3805a)
+  - [ ] lista de espera. [Correção](https://github.com/Requisitos-Grupo1/MatriculaWeb/wiki/Cen%C3%A1rio/_compare/a870100cf606ba8185affc79b05c1887e4c3805a)
+  - [ ] logout.
+  - [ ] oferta de disciplinas.
+  - [ ] quadro de resumo.
+  - [ ] reCAPTCHA.
+  - [ ] secretaria.
+  - [ ] senha.
+  - [ ] trancamento geral.
+
+- [ ] Links para os léxicos estão disponíveis.
+
+- [ ] Corrigir erros de digitação.
+  - [ ] grade horário.
+

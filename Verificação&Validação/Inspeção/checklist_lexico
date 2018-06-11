@@ -1,0 +1,11 @@
+Léxico
+
+- [ ] Existe uma quantidade significante de léxicos, visto o tamanho do universo de informações e domínio da aplicação.
+- [ ] Léxicos possuem ‘noção’ detalhada e auto explicativa.
+- [ ] Léxicos possuem ‘impactos’ identificando todas as ocorrências do léxico no domínio da aplicação.
+- [ ] Existe pelo menos 1 sinônimo (plural) para cada léxico.
+- [ ] Não existe definição de impacto no campo de noção.
+- [ ] Todas as ocorrências de cada léxicos estão devidamente referenciadas (links) no corpo do documento.
+- [ ] Todas as ocorrências dos léxicos no corpo do documento de cenários estão devidamente referenciadas (links).
+- [ ] Não existe redundância e/ou conflitos de léxicos.
+- [ ] Corrigir erros de ortografia e erros gramaticais nos textos.

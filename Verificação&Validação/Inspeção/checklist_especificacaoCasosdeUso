@@ -1,0 +1,18 @@
+Especificações dos Casos de Uso
+
+- [ ] Todos os casos de uso estão especificados.
+  - Há casos de uso faltantes.
+- [ ] Todos os casos de uso possuem tags.
+- [ ] Os casos de uso seguem um padrão de numeração.
+  - Há Fluxos Alternativos com a numerações erradas.
+  - [Correção](https://github.com/Requisitos-Grupo1/MatriculaWeb/wiki/Especificação-dos-Casos-de-Uso/_compare/4fb7dc6958de80fb4943ffe394de97ab06b83c7e...17452b17233a529c233374efb477d48f9e6fb539)
+- [ ] Todos os nomes dos casos de uso estão padronizados.
+  - Há nomes diferentes.
+  - [Correção](https://github.com/Requisitos-Grupo1/MatriculaWeb/wiki/Especificação-dos-Casos-de-Uso/_compare/fab396070524a64fe6e5d1ff65da7e1f54eb7207...4fb7dc6958de80fb4943ffe394de97ab06b83c7e)
+- [ ] Todos os tópicos seguem o mesmo padrão de estilo.
+  - O tópico de “breve descrições” possui diferença de estilos em certos casos de uso.
+  - [Correção](https://github.com/Requisitos-Grupo1/MatriculaWeb/wiki/Especificação-dos-Casos-de-Uso/_compare/17452b17233a529c233374efb477d48f9e6fb539...38c41eb794f9833a73b9985025a792b43777fb85)
+- [ ] O nome dos atores se encontram padronizados.
+- [ ] Todas as Pós condições indicam exatamente onde o sistema deve seguir após o caso de uso.
+  - Algumas pós condições não se encontram descritas.
+- [ ] Os fluxos alternativos, de exceção e básicos se encontram devidamente indexados.

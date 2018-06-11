@@ -1,0 +1,11 @@
+MoSCoW 
+
+- [ ]  Contém todas os requisitos compatíveis com as histórias presentes no backlog do produto.
+- [ ] Possui código de identificação de requisito.
+- [ ] Requisito possui referência para história do backlog de produto.[Corrigido](https://github.com/Requisitos-Grupo1/MatriculaWeb/wiki/MoSCoW/_compare/4d9bd200ead610b97d52ee0f3f6202fbda60b2fa)
+- [ ] Todas as histórias possuem priorização.
+- [ ] Cada história possui peso único de priorização.
+- [ ] Toda história utiliza o mesmo padrão de priorização.
+- [ ] A priorização de cada história pertence à escala Would, could, should, must.
+- [ ] Existe justificativa para a priorização de cada história.
+- [ ] Priorização foi parcialmente validada pela visão de usuários.

@@ -1,0 +1,13 @@
+Backlog do Produto
+
+- [ ] Todas as histórias estão representadas seguindo um padrão de escrita.
+- [ ] As histórias são especificadas tendo em vista o que e não como fazer.
+- [ ] Os épicos são especificados tendo em vista o que e não como fazer.
+- [ ] Descrição das tarefas inicializa com verbos.
+- [ ] Existem épicos.
+- [ ] Existem features.
+- [ ] As histórias são separadas por tema.
+- [ ] Existem tasks para as histórias.
+- [ ] Não existem tarefas sem tema.
+- [ ] A descrição dos temas, épicos e histórias de usuários e tarefas são coerentes.
+- [ ] As histórias possuem códigos de especificação (ex: US01)
