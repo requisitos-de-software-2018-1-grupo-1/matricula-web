@@ -1,0 +1,10 @@
+NFR Framework
+
+- [ ] Todos os requisitos não funcionais possuem softgoal.
+- [ ] Todas as softgoals e operacionalizações possuem labels.
+- [ ] Softgoals devem possuir nomes claros (Ex.: Bom desempenho != Desempenho).
+- [ ] Impactos entre softgoals devem ser incluídas (Ex.: Suportabilidade afeta Usabilidade).
+- [ ] Uso de claims para comentar impactos gerados de uma softgoal para outra.
+- [ ] Operacionalizações no softgoal de Interface [Sistema] devem enumerar ações concretas a ser realizadas.
+- [ ] Impactos devem ser de um único tipo de operacionalizações/softgoals para softgoals (Ex.: Contribuição AND não pode existir junto com +).
+- [ ] As contribuições (impactos positivos ou negativos, ou mesmo as contribuições OR ou AND) precisam existir, ou seja, não pode haver ligação sem um impacto.
