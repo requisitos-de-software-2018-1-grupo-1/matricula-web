@@ -1,0 +1,46 @@
+Título : Identificação de problemas com matrícula - Matricula Web
+
+1. Já passou por algum problema na hora de fazer a matrícula no matrícula web?
+---
+1. Sim
+2. Não
+---
+
+2. Se sim, o problema está relacionado a qual período?
+---
+- [ ] Confimação de pré-matrícula
+- [ ] Confimação de permanência em fila de espera
+- [ ] Ajuste de matrícula
+---
+
+3. O matrícula web já retirou alguma disciplina sem que você solicitasse?
+---
+1. Sim
+2. Não
+---
+
+4. Já teve problemas da hora de adicionar disciplinas?
+---
+1. Sim
+2. Não
+---
+
+5. Se sim, qual foi a mensagem de erro que apareceu?
+---
+- [ ] Existe fila de espera
+- [ ] Existe um pré-requisito para esta matéria
+- [ ] Quantidade de créditos excedida
+- [ ] Outro:__________________
+---
+
+[Retornar ao Índice](#indicequestionario)
+
+6. Os problemas que teve no matrícula web se localizaram:
+---
+- [ ] Na visualização dos cursos existentes
+- [ ] Na visualização das ofertas de disciplinas
+- [ ] Na matrícula de disciplinas (Resultado, matricula em disciplina, matricula vinculada)
+- [ ] No trancamento ou na retirada de disciplinas
+- [ ] Na visualização dos meus dados (Grade horária, quadro de resumo, histórico escolar)
+---
+
