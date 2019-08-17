@@ -15,7 +15,7 @@ Nesse sentido, a disciplina é ministrada com a divisão da turma em grupos a fi
 A equipe é formada por seis alunos do curso de engenharia de software que cursam a disciplina de Requisitos, todos com perfis diferenciados e em diferentes posições do fluxograma.
 
 | Membro | E-mail | GitHub |
-| ----- | ---- | ---- |
+| :-----: | :----: | :----: |
 |Adrianne Alves da Silva | driah_as@hotmail.com | [drianne](https://github.com/drianne) |
 |Mateus de Oliveira Barbosa | maaaaateeeeeus@gmail.com | [MateusO97](https://github.com/MateusO97)|
 |Matheus Roberto Alves da Silva | matheus456456@gmail.com | [Matheus456](https://github.com/Matheus456) |
